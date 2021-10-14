@@ -1,2 +1,2 @@
 # Hack
-Demo repositary
+Demo repositary made for hacktober fest
